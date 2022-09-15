@@ -5,4 +5,4 @@ El back esta contstruido en nodeJs y express, el front con react.
 
 Se consume la API de spotify para obtener los datos de acuerdo a los caracteres de la busqueda que se van colocando 
 
-> [Demo](https://www.loom.com/share/6ec0d34fba674a87b27c708bf734063d)
+> [Demo](https://www.loom.com/share/6113fc357dce447ab3d0df786d76fc82)
