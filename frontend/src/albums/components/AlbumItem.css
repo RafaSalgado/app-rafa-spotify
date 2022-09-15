@@ -1,0 +1,60 @@
+.album-item {
+  margin: 1rem 0;
+}
+
+.album-item__content {
+  padding: 0;
+}
+
+.album-item__info {
+  padding: 1rem;
+  text-align: center;
+}
+
+.album-item__image {
+  width: 100%;
+  height: 12.5rem;
+  margin-right: 1.5rem;
+}
+
+.album-item__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.album-item__info h2,
+.album-item__info h3,
+.album-item__info p {
+  margin: 0 0 0.5rem 0;
+}
+
+.album-item__actions {
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+.album-item__modal-content {
+  padding: 0;
+}
+
+.album-item__modal-actions {
+  text-align: right;
+}
+
+.album-item__actions button,
+.album-item__actions a {
+  margin: 0.5rem;
+}
+
+.map-container {
+  height: 15rem;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .album-item__image {
+    height: 20rem;
+  } 
+}
